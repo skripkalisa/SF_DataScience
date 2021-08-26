@@ -2,7 +2,7 @@
 
 # My Data Science projects
 
-* [Project 0. Guess the number](link)
+* [Project 0. Guess the number](https://github.com/skripkalisa/SF_DataScience/tree/main/Mod8)
 * [Project 1. Project name](link)
 * [Project 2. Project name](link)
 * [Project 3. Project name](link)
